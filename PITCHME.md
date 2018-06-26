@@ -13,8 +13,8 @@ Un site web clé en main conçu pour privilégier la participation
 ## C'est quoi un wiki de territoire ?
 @ul
 * Wikis liés à un espace géographique
-* Collectivité territoriale, association bénévoles
-* Apparu en 2006 à Brest
+* lancés par des collectivités territoriales, des associations, des bénévoles
+* Apparu en France en 2006 à Brest
 * Une 30 aine en France
 @ulend
 +++
@@ -24,7 +24,8 @@ Un site web clé en main conçu pour privilégier la participation
 ---
 
 ## Contenu
-Tous différents
+Tous différents  
+(car collaboratifs...)
 
 +++
 
@@ -90,7 +91,7 @@ Tout le monde
 
 +++
 
-Le wiki n'est pas qu'un outil en ligne, c'est aussi l'occasion de rencontres
+Le wiki n'est pas qu'un outil en ligne, c'est aussi l'occasion de rencontres  
 Le wiki prépare, prolonge, permet, voir provoque la rencontre 
 
 ---
@@ -107,10 +108,7 @@ Le wiki prépare, prolonge, permet, voir provoque la rencontre
 +++
 
 ### Animation et accompagnement
-**Indispensable !!** 
-
-@fa[exclamation-triangle ]
-
+@fa[exclamation-triangle] **Indispensable !!** 
 L'animateur n'anime pas le wiki mais la communauté 
 
 +++
