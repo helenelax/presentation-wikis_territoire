@@ -108,7 +108,7 @@ Le wiki prépare, prolonge, permet, voir provoque la rencontre
 +++
 
 ### Animation et accompagnement
-@fa[exclamation-triangle] **Indispensable !!** 
+@fa[exclamation-triangle] **Indispensable !!**   
 L'animateur n'anime pas le wiki mais la communauté 
 
 +++
@@ -120,6 +120,7 @@ L'animateur n'anime pas le wiki mais la communauté
   * Correction
   * Identifier les manques
   * Mise en page
+  * ...
 
 ---
 
