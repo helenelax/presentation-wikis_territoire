@@ -4,9 +4,9 @@ Présentation réalisée dans le cadre de la semaine des Tiers-Lieux organisée 
 ---
 
 ## C'est quoi un wiki ?
-Un site web clé en main conçu pour privilégier la participation |
-**Exemples d'outils** : Mediawiki mais aussi YesWiki  |
-**Exemples de sites** : Wikipedia, Wiktionnaire, Wikia |
+Un site web clé en main conçu pour privilégier la participation|
+**Exemples d'outils** : Mediawiki mais aussi YesWiki|
+**Exemples de sites** : Wikipedia, Wiktionnaire, Wikia|
 
 ---
 
