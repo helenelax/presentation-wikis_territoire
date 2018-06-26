@@ -4,18 +4,19 @@ Présentation réalisée dans le cadre de la semaine des Tiers-Lieux organisée 
 ---
 
 ## C'est quoi un wiki ?
-Un site web clé en main conçu pour privilégier la participation|
-**Exemples d'outils** : Mediawiki mais aussi YesWiki|
-**Exemples de sites** : Wikipedia, Wiktionnaire, Wikia|
+Un site web clé en main conçu pour privilégier la participation
+**Exemples d'outils** : Mediawiki mais aussi YesWiki
+**Exemples de sites** : Wikipedia, Wiktionnaire, Wikia
 
 ---
 
 ## C'est quoi un wiki de territoire ?
-* Wikis liés à un espace géographique |
-* Collectivité territoriale, association bénévoles |
-* Apparu en 2006 à Brest  |
-* Une 30 aine en France |
-
+@ul
+* Wikis liés à un espace géographique
+* Collectivité territoriale, association bénévoles
+* Apparu en 2006 à Brest
+* Une 30 aine en France
+@ulend
 +++
 
 ![Carte des participants RegioWiki](http://www.lamerguez.com/presentations_GitPich/presentation-wikis_territoire/Carte_Regiowiki.png "Carte des participants RegioWiki")
