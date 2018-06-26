@@ -4,9 +4,9 @@ Présentation réalisée dans le cadre de la semaine des Tiers-Lieux organisée 
 ---
 
 ## C'est quoi un wiki ?
-Un site web clé en main conçu pour privilégier la participation
-**Exemples d'outils** : Mediawiki mais aussi YesWiki
-**Exemples de sites** : Wikipedia, Wiktionnaire, Wikia
+Un site web clé en main conçu pour privilégier la participation  
+**Exemples d'outils** : Mediawiki mais aussi YesWiki  
+**Exemples de sites** : Wikipedia, Wiktionnaire, Wikia  
 
 ---
 
@@ -26,7 +26,7 @@ Un site web clé en main conçu pour privilégier la participation
 ## Contenu
 Tous différents
 
----
++++
 
 ## Contenu
 * Encyclopédie du territoire : histoire, botanique, ...
@@ -45,10 +45,10 @@ Tous différents
 
 ---
 
-## Qui écrit
+## Qui écrit ?
 Tout le monde
 * modéré *a priori* ou *a posteriori*
-* licences libres ou mélées
+* licences libres ou mêlées
 
 ---
 
@@ -144,7 +144,6 @@ L'animateur n'anime pas le wiki mais la communauté
 ---
 
 ### Gouvernance
-
 Pour les projets collaboratifs on a toujours intérêt à ouvrir *a priori* et à fermer *a posteriori*
 
 +++
