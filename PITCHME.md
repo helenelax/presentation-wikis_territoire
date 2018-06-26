@@ -26,6 +26,9 @@ Un site web clé en main conçu pour privilégier la participation
 ## Contenu
 Tous différents
 
+---
+
+## Contenu
 * Encyclopédie du territoire : histoire, botanique, ...
 * Répertoire associatif 
 * Répertoire des artistes
@@ -87,7 +90,8 @@ Tout le monde
 
 +++
 
-Le wiki n'est pas qu'en ligne, c'est aussi l'occasion de rencontres : prépare, prolonge, permet, voir provoque la rencontre 
+Le wiki n'est pas qu'un outil en ligne, c'est aussi l'occasion de rencontres
+Le wiki prépare, prolonge, permet, voir provoque la rencontre 
 
 ---
 
@@ -105,16 +109,19 @@ Le wiki n'est pas qu'en ligne, c'est aussi l'occasion de rencontres : prépare, 
 ### Animation et accompagnement
 **Indispensable !!** 
 
-* L'animateur n'anime pas le wiki mais la communauté 
+@fa[exclamation-triangle ]
+
+L'animateur n'anime pas le wiki mais la communauté 
 
 +++
 
+### Animation
 * Partager toutes les tâches 
   * Accueil
   * Rédaction
   * Correction
   * Identifier les manques
-  * Mise en page ;;;
+  * Mise en page
 
 ---
 
@@ -142,6 +149,7 @@ Pour les projets collaboratifs on a toujours intérêt à ouvrir *a priori* et �
 
 +++
 
+### Gouvernance
 * Charte
 * Avec les contributeurs
     * Définir la **ligne éditoriale** : objectivité ? Aspect encyclopédique ?
